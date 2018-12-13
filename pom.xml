@@ -5,13 +5,13 @@
 
     <groupId>priv.mwas</groupId>
     <artifactId>scm-example</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/mateusz-was/maven-workshop-scm-example.git</developerConnection>
         <connection>scm:git:https://github.com/mateusz-was/maven-workshop-scm-example.git</connection>
         <url>https://github.com/mateusz-was/maven-workshop-scm-example.git</url>
-      <tag>scm-example-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
