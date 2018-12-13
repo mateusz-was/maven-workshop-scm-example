@@ -6,7 +6,7 @@
     <groupId>priv.mwas</groupId>
     <artifactId>scm-example</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.2-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:https://github.com/mateusz-was/maven-workshop-scm-example.git</developerConnection>
